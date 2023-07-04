@@ -19,3 +19,21 @@
     margin-bottom: 1rem;
     color: rgb(4, 255, 4);
 }
+button{
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    background-color:rgb(4, 255, 4);
+    color: rgb(0, 0, 0);
+}
+button:hover{
+    background-color: rgb(135, 255, 124);
+}
+h2{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 300;
+
+}
